@@ -5,4 +5,4 @@ completed:
 -logistic growth w/ threshold
 
 planning to complete:
-
+- simple, damped, and forced harmonic motion
